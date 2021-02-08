@@ -29,7 +29,7 @@ OTFS项目是一款以SpringBoot为核心框架，Web层框架React和多种开�
 ### 系统管理(模块名称otfs-sys) 
 OTFS管理系统登录页面
 ps:登录链接一般为：http://localhost:8888/user/login
-![Image text](img-blog.csdnimg.cn/20210208142953303.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzE5NzM0NTk3,size_16,color_FFFFFF,t_70)
+![Image text](https://img-blog.csdnimg.cn/20210208142953303.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzE5NzM0NTk3,size_16,color_FFFFFF,t_70)
 
 管理系统欢迎页面，可以适配移动端页面
 ![Image text](https://img-blog.csdnimg.cn/20210208142953113.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzE5NzM0NTk3,size_16,color_FFFFFF,t_70)
